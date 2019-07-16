@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background-color: #00a8c5;
+}
+
+form {
+	background-color: white;
+	width: 600px;
+	height: 385px;
+	margin: 25px auto;
+	padding: 20px;
+	outline: 5px black;
+	outline-style: groove;
+	font-size: 1.1em;
+}
+
+h1 {
+	color: white;
+}
+
+#usernameError, #passwordAgainError {
+	font-style: italic;
+}
